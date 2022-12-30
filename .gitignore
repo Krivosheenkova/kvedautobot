@@ -140,7 +140,4 @@ cython_debug/
 
 .idea
 .vscode
-./.env
-./.venv
-./bot/misc/advads_utils/scrapped_data/*
-./selchas
+
